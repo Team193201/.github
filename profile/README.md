@@ -6,11 +6,11 @@ don't forget to keep going to learning
 
 ## Creators
 
-<a herf="https://github.com/saharGhorbanzad">** Sahar Ghorbanzad **</a>
+<a href="https://github.com/saharGhorbanzad">**Sahar Ghorbanzad**</a>
 
-<a herf="https://github.com/OmidAbiry">** Omid Abiry ** </a>
+<a href="https://github.com/OmidAbiry">**Omid Abiry**</a>
 
-<a herf="https://github.com/Hosein201">** Hossein Golmohammadi **</a>
+<a href="https://github.com/Hosein201">**Hossein Golmohammadi**</a>
 <!--
 
 **Here are some ideas to get you started:**
