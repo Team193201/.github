@@ -4,7 +4,7 @@ this team for building web projects and learning about .net core is here and if 
 team and I enjoy working with you. 
 don't forget to keep going to learning
 
-
+https://github.com/saharGhorbanzad and https://github.com/OmidAbiry , https://github.com/Hosein201 are in the team 😊
 <!--
 
 **Here are some ideas to get you started:**
