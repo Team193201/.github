@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+this team for building web projects and learning about .net core is here and if you think, you can help us, you can join us.
+team and I enjoy working with you. 
+don't forget to keep going to learning
+
+
 <!--
 
 **Here are some ideas to get you started:**
