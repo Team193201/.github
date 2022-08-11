@@ -4,9 +4,11 @@ this team for building web projects and learning about .net core is here and if 
 team and I enjoy working with you. 
 don't forget to keep going to learning
 
-## Creators
+## Creators   
 
 <a href="https://github.com/saharGhorbanzad">**Sahar Ghorbanzad**</a>
+
+<a href="https://github.com/she1da">**she1da **</a>
 
 <a href="https://github.com/OmidAbiry">**Omid Abiry**</a>
 
